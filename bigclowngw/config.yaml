@@ -4,7 +4,7 @@ arch:
 - armhf
 - armv7
 - i386
-codenotary: git at simecek.eu
+codenotary: hassadons@simecek.eu
 description: Bigclown Gateway from Hardwario Hassio add-on by DSCK
 init: false
 name: Bigclown GW
@@ -25,5 +25,5 @@ schema:
   usb_port: str
   debug: bool
 slug: bigclowngw
-url: https://github.com/dansck/bcg_hardwario
+url: https://github.com/dansck/hassio-addons/tree/main/bigclowngw
 version: 1.0.0
